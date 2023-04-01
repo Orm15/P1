@@ -1,0 +1,55 @@
+
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    border-color: black;
+  }
+  
+  h1 {
+    text-align: center;
+    color: red;
+  }
+  
+
+
+input {
+    margin-bottom: 10px;
+    color: blue12;
+    border-radius: 30px;
+  }
+  
+  button {
+    width: 100px;
+    border: 2px solid #000;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+  }
+  
+#resultado {
+    text-align: center;
+    border: red;
+    
+}
+
+body{
+  background-image: url('21276.png');
+  background-size:contain;
+
+}
+
+.circle{
+  border-radius: 50%;
+  width: 50%;
+  height: 70%;
+  background-color: white;
+  padding: 20px;
+  color: black;
+  text-align: center;
+  margin :auto;
+}
+
+
+
