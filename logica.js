@@ -8,8 +8,7 @@ miComboBox.onchange = function() {
 
 
     if(isNaN(num1) || isNaN(num2)){ //isNaN devuelve true si la variable no es un numero
-        estado = "Operacion no valida ";
-        document.getElementById("resultado").value = estado;
+        alert('Escribe numeros en los espacios que lo soliciten')
         
     }else{
         if(valorC == "1"){
